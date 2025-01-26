@@ -1,0 +1,1 @@
+This repository contains a simple Tcl procedure that demonstrates an uncommon error. The procedure is intended to return the larger of two input numbers, but due to an error in the return statement, it does not always return the correct value. The bug and its solution are provided in separate files for clarity.
